@@ -1,0 +1,20 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	kallisto | SRR8668757	/Users/mallonk/Desktop/DIY Transcriptomics/kallisto/757.log
+Kallisto	all_sections	kallisto | SRR8668756	/Users/mallonk/Desktop/DIY Transcriptomics/kallisto/756.log
+Kallisto	all_sections	kallisto | SRR8668769	/Users/mallonk/Desktop/DIY Transcriptomics/kallisto/769.log
+Kallisto	all_sections	kallisto | SRR8668758	/Users/mallonk/Desktop/DIY Transcriptomics/kallisto/758.log
+Kallisto	all_sections	kallisto | SRR8668759	/Users/mallonk/Desktop/DIY Transcriptomics/kallisto/759.log
+Kallisto	all_sections	kallisto | SRR8668773	/Users/mallonk/Desktop/DIY Transcriptomics/kallisto/773.log
+Kallisto	all_sections	kallisto | SRR8668772	/Users/mallonk/Desktop/DIY Transcriptomics/kallisto/772.log
+Kallisto	all_sections	kallisto | SRR8668774	/Users/mallonk/Desktop/DIY Transcriptomics/kallisto/774.log
+FastQC	all_sections	fastqc | SRR8668757	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668757_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668771	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668771_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668774	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668774_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668755	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668755_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668758	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668758_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668773	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668773_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668755_1M_subsample	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668769	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668769_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668756	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668756_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668759	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668759_fastqc.zip
+FastQC	all_sections	fastqc | SRR8668772	/Users/mallonk/Desktop/DIY Transcriptomics/fastqc/SRR8668772_fastqc.zip

@@ -1,0 +1,23 @@
+[2024-01-30 22:36:16,113] multiqc                                            [DEBUG  ]  This is MultiQC v1.19
+[2024-01-30 22:36:16,113] multiqc                                            [DEBUG  ]  Command used: /Users/mallonk/miniconda/envs/rnaseq/bin/multiqc -d .
+[2024-01-30 22:36:16,460] multiqc                                            [DEBUG  ]  Latest MultiQC version is v1.19
+[2024-01-30 22:36:16,460] multiqc                                            [DEBUG  ]  Working dir : /Users/mallonk/Desktop/DIY Transcriptomics
+[2024-01-30 22:36:16,461] multiqc                                            [DEBUG  ]  Template    : default
+[2024-01-30 22:36:16,461] multiqc                                            [DEBUG  ]  Running Python 3.11.7 | packaged by conda-forge | (main, Dec 23 2023, 14:38:52) [Clang 16.0.6 ]
+[2024-01-30 22:36:16,461] multiqc                                            [INFO   ]  Prepending directory to sample names
+[2024-01-30 22:36:16,462] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, mapdamage, biobambam2, jcvi, mtnucratio, picard, vep, bakta, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, seqera_cli, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, truvari, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, freyja, humid, kat, leehom, librarian, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, sourmash, kaiju, bracken, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap, xenome, xengsort
+[2024-01-30 22:36:16,462] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /var/folders/7l/3z3gmqf103v5wrb310xl3pym0000gp/T/tmpo6t6niwl
+[2024-01-30 22:36:16,465] multiqc                                            [INFO   ]  Search path : /Users/mallonk/Desktop/DIY Transcriptomics
+[2024-01-30 22:36:16,857] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_file_contents_search_errors: 801] // [skipped_module_specific_max_filesize: 436] // [skipped_no_match: 60] // [skipped_ignore_pattern: 14] // [skipped_filesize_limit: 1]
+[2024-01-30 22:36:20,720] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.8.2
+[2024-01-30 22:36:20,721] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.8.2
+[2024-01-30 22:36:20,722] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2024-01-30 22:36:20,725] multiqc.modules.kallisto.kallisto                  [INFO   ]  Found 8 reports
+[2024-01-30 22:36:20,742] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 11 reports
+[2024-01-30 22:36:20,772] multiqc.utils.software_versions                    [DEBUG  ]  Reading software versions from config.software_versions
+[2024-01-30 22:36:20,780] multiqc                                            [DEBUG  ]  Compressing plot data
+[2024-01-30 22:36:20,899] multiqc                                            [INFO   ]  Report      : multiqc_report.html
+[2024-01-30 22:36:20,900] multiqc                                            [INFO   ]  Data        : multiqc_data
+[2024-01-30 22:36:20,900] multiqc                                            [DEBUG  ]  Moving data file from '/var/folders/7l/3z3gmqf103v5wrb310xl3pym0000gp/T/tmpo6t6niwl/multiqc_data' to '/Users/mallonk/Desktop/DIY Transcriptomics/multiqc_data'
+[2024-01-30 22:36:20,904] multiqc                                            [DEBUG  ]  Full report path: /Users/mallonk/Desktop/DIY Transcriptomics/multiqc_report.html
+[2024-01-30 22:36:20,985] multiqc                                            [INFO   ]  MultiQC complete
